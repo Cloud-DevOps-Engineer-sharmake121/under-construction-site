@@ -1,0 +1,10 @@
+# Terraform local files
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Service account keys
+*.json
+
+# OS files
+*.log
